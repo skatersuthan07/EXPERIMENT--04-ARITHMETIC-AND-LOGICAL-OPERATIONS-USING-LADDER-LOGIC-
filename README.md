@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:
-# REGISTER NUMBER:
-# DEPARTMENT:
-# YEAR:
+#  NAME: Suthan B
+# REGISTER NUMBER: 212225240164
+# DEPARTMENT: Aiml
+# YEAR: 2nd YEAR
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -75,7 +75,16 @@ Test the arithmetic and logical operations with physical push buttons and observ
 Arithmetic Operations: Verify that the output shows correct results for addition, subtraction, multiplication, and division.
 Logical Operations: Confirm that the output behaves as expected based on the logical conditions (AND, OR, NOT).
 ##  Simulation Screenshots:
-(Add screenshots of the ladder logic and operation results in the simulation software.)
+<img width="632" height="477" alt="Screenshot 2026-11-02 095039" src="https://github.com/user-attachments/assets/bb2ed779-0667-428b-b59f-4e661cb539c6" />
+<img width="635" height="257" alt="Screenshot 2026-11-02 095055" src="https://github.com/user-attachments/assets/5d7145a1-ab1c-4e05-bb47-1238ba51cb81" />
+<img width="630" height="920" alt="image" src="https://github.com/user-attachments/assets/092bd1ed-6437-46ca-bfa3-7e38da137214" />
+<img width="1462" height="280" alt="image" src="https://github.com/user-attachments/assets/798f98df-8f48-4a56-a790-064d6e721bf6" />
+
+
+
+
+
+
 
 ## Results:
 The ladder logic programs for various arithmetic and logical operations were successfully implemented and tested. The outputs were as expected, demonstrating correct calculation and logical decision-making capabilities. This experiment illustrates the essential role of arithmetic and logical functions in automated processes.
